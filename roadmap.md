@@ -1,0 +1,13 @@
+- [x] Build PDF-aligned shared visual system and navigation.
+- [x] Implement registration and agency profile demo.
+- [x] Implement exchange brand, campaign, review, payment, and monitor journeys.
+- [x] Implement partner, asset bazaar, and Eye Store journeys.
+- [x] Verify desktop/mobile rendering and primary interactions.
+- [x] Align registration, partner and asset onboarding with all 59 PDF pages.
+- [x] Complete campaign review, approval, live proof pipeline, and reports.
+- [x] Complete physical asset store and Eye Store purchase confirmations.
+- [x] Verify all updated journeys on desktop and mobile.
+- [x] Consolidate first-screen navigation into All Screens and correct blue button contrast.
+- [x] Add permanent campaign job codes and editable Pending campaign creation.
+- [x] Move brand payment into review and gate agency Push Live; simplify campaign lists.
+- [x] Rename wallet to CBDC Wallete and verify the full flow.
